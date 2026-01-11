@@ -1,4 +1,4 @@
-AI-Driven Oil Spill Detection and Monitoring
+#AI-Driven Oil Spill Detection and Monitoring
 1. Introduction
 
 Oil spills are one of the most critical environmental disasters, causing long-term damage to marine ecosystems, coastal biodiversity, and economic activities such as fisheries and tourism. Detecting oil spills at an early stage is essential to reduce environmental impact and enable rapid response actions. However, traditional oil spill detection approaches rely heavily on manual inspection of satellite images or physical patrolling, which are time-consuming, costly, and inefficient for large-scale monitoring.
